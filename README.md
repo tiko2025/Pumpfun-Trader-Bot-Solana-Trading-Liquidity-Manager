@@ -4,7 +4,7 @@ This bot is designed for token creators, liquidity pools and traders, providing 
 
 (The bot is available on macOS and windows)
 
-For full access contact me on telegram: https://t.me/ZeronodeX
+## For full access contact me on telegram: https://t.me/ZeronodeX
 
 I provide full access to the bot and also provide an introduction to using the program. 
 Always in touch
